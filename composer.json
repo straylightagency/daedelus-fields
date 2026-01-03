@@ -1,5 +1,5 @@
 {
-    "name": "straylightagency/majestic-fields",
+    "name": "daedelus/fields",
     "description": "Fluent way to create fields using the ACF plugin",
     "type": "lib",
     "minimum-stability": "dev",
